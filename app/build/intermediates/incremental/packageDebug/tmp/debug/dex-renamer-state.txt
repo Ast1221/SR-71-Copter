@@ -1,0 +1,7 @@
+#Wed Jun 06 23:34:47 EET 2018
+base.0=C\:\\Users\\ATEMUR\\Desktop\\SR-71-Copter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\ATEMUR\\Desktop\\SR-71-Copter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
